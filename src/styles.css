@@ -12,40 +12,50 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin: 0;
   background-color: rgb(154, 149, 176);
-  height: 100vh;
+  min-height: 100vh;
+  min-width: 100vw;
 
   background-image: url(./images/bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
+  overflow-x: hidden;
 }
 
-header {
+header,
+nav {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+header {
   margin: 40px 0;
   padding: 20px;
-  height: fit-content;
   background-color: var(--div-bg);
+}
+
+nav {
+  gap: 50px;
+  flex-wrap: wrap;
 }
 
 button {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1.5rem;
   border-radius: 10px;
-  margin: 0 20px;
   padding: 5px 25px;
   color: var(--text-color);
   background-color: rgb(88, 88, 88);
 }
 
 #content {
-  flex: 1;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
   color: white;
   background-color: var(--div-bg);
-  padding: 20px;
+  padding: 50px 100px;
 }
 
 footer {

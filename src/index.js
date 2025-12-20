@@ -1,18 +1,16 @@
 import "./styles.css";
-import loadHome from "./modules/home.js";
+import loadHome from "./modules/home";
+import loadMenu from "./modules/menu";
+import loadContact from "./modules/contact";
 
 const home = document.querySelector("#home");
 const menu = document.querySelector("#menu");
 const contact = document.querySelector("#contact");
 
-home.addEventListener("click", () => {
-  loadHome();
-});
+loadHome();
 
-menu.addEventListener("click", () => {
-  loadHome();
-});
+home.addEventListener("click", loadHome);
 
-contact.addEventListener("click", () => {
-  loadHome();
-});
+menu.addEventListener("click", loadMenu);
+
+contact.addEventListener("click", loadContact);

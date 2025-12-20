@@ -1,0 +1,23 @@
+.homeContain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 100px;
+  gap: 50px;
+
+  h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    margin: 0;
+    text-decoration: underline;
+  }
+
+  p {
+    font-size: 1.5rem;
+  }
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
