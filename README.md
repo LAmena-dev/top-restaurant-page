@@ -5,6 +5,7 @@ A [practice project for a restaurant](https://www.theodinproject.com/lessons/nod
 * HTML
 * CSS (Flexbox)
 * JavaScript (Constructors, DOM Manipulation)
+* Webpack
 
 ## Features
 * Tabular function for showing content
