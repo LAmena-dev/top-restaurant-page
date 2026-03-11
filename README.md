@@ -1,5 +1,5 @@
-# TOP-restaurant-page
-A practice project for a restaurant created with HTML, CSS and JavaScript
+# Restaurant Page
+A [practice project for a restaurant](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page) created with HTML, CSS and JavaScript
 
 ## Technology used
 * HTML
@@ -10,7 +10,8 @@ A practice project for a restaurant created with HTML, CSS and JavaScript
 * Tabular function for showing content
 
 ## Sources
-Part of the [The Odin Project](https://www.theodinproject.com/) curriculum  
+Part of the [The Odin Project](https://www.theodinproject.com/) curriculum
+
 Header font from [YutaONE](https://www.instagram.com/yuta_ptv_jp/?hl=en)  
 Icons from [pictogrammers.com](https://pictogrammers.com/)  
 Home photo by [Victoria Shes](https://unsplash.com/@victoriakosmo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grilled-meat-and-vegetable-on-the-table-UC0HZdUitWY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
