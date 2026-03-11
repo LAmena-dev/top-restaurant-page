@@ -1,5 +1,5 @@
 # Restaurant Page
-A [practice project for a restaurant](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page) created with HTML, CSS and JavaScript
+A [practice project for a restaurant](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page) created with HTML, CSS, JavaScript, and Webpack to bundle modules and build websites for distribution.
 
 ## Technology used
 * HTML
